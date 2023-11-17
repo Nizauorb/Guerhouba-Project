@@ -1,0 +1,21 @@
+body {
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#start_page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#img_njLOA7 {
+    width: 100%;
+    height: 100vh;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
